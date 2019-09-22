@@ -15,3 +15,6 @@ YouTube的算法会定期变化，所以Think4V Utubudown会相应地升级代�
 2. 支持各种视频网站，支持从YouTube下载标清/高清/超清的内容，也可直接将YouTube视频转换成MP3音频。
 3. 同时下载多个视频，并限制下载速度。
 4. 支持下载YouTube自带、自动生成和自动翻译字幕。
+
+
+官方地址：https://www.utubedown.com/
