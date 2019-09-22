@@ -1,4 +1,4 @@
-youtube视频下载神器：Think4V Utubudown 
+YouTube视频下载神器：Think4V Utubudown 
 
 
 Think4V Utubudown是一款YouTube视频下载软件，用来从YouTube等流行的视频网站上面下载视频。简单才是最好，是这个软件的开发宗旨。虽然看起来很简洁清爽，但是它几乎具备下载视频需要的所有功能。其中一个十分有用的功能，就是该YouTube视频下载器支持从YouTube上面下载高清和超清视频，比如720P、1080P、2K、4K和8K分辨率等。
